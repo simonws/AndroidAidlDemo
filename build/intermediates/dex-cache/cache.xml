@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/media/ws/NEW_DISK/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/ws/project/my_github/aidl-example/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_b82497cbcd96824b3583792bd1dfb6226dab5d10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ws/.android/build-cache/fff05e31ab99d4481a6a61eee73321d3407db94d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/ws/project/my_github/aidl-example/app/build/intermediates/pre-dexed/debug/classes_f31d07f59f50ce0f36a61953cbdb674ce469bfaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ws/.android/build-cache/b69df8656e780c274cfd0e228a95ad76372b6c01/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/ws/project/my_github/aidl-example/app/build/intermediates/pre-dexed/debug/classes_91f1bf991eaf11325e54f6915fa86619ff066f5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ws/.android/build-cache/b69df8656e780c274cfd0e228a95ad76372b6c01/output/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/ws/project/my_github/aidl-example/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_15665fa9c0ca0bfb8b5d4f63003ef462a03ac537.jar" />
+    </item>
+
+</items>
